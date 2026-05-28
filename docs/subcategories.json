@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Mercado",
+    "type": "expense",
+    "parent_id": "Alimentação"
+  },
+  {
+    "name": "Padaria",
+    "type": "expense",
+    "parent_id": "Alimentação"
+  },
+  {
+    "name": "Açougue",
+    "type": "expense",
+    "parent_id": "Alimentação"
+  },
+  {
+    "name": "Restaurante",
+    "type": "expense",
+    "parent_id": "Alimentação"
+  },
+  {
+    "name": "Delivery",
+    "type": "expense",
+    "parent_id": "Alimentação"
+  },
+  {
+    "name": "Uber",
+    "type": "expense",
+    "parent_id": "Transporte"
+  },
+  {
+    "name": "99",
+    "type": "expense",
+    "parent_id": "Transporte"
+  },
+  {
+    "name": "Combustível",
+    "type": "expense",
+    "parent_id": "Transporte"
+  },
+  {
+    "name": "Estacionamento",
+    "type": "expense",
+    "parent_id": "Transporte"
+  },
+  {
+    "name": "Pedágio",
+    "type": "expense",
+    "parent_id": "Transporte"
+  },
+  {
+    "name": "Manutenção Veicular",
+    "type": "expense",
+    "parent_id": "Transporte"
+  },
+  {
+    "name": "Seguro Veicular",
+    "type": "expense",
+    "parent_id": "Transporte"
+  },
+  {
+    "name": "IPVA",
+    "type": "expense",
+    "parent_id": "Transporte"
+  },
+  {
+    "name": "Ônibus",
+    "type": "expense",
+    "parent_id": "Transporte"
+  },
+  {
+    "name": "Aluguel",
+    "type": "expense",
+    "parent_id": "Moradia"
+  },
+  {
+    "name": "Financiamento",
+    "type": "expense",
+    "parent_id": "Moradia"
+  },
+  {
+    "name": "Condomínio",
+    "type": "expense",
+    "parent_id": "Moradia"
+  },
+  {
+    "name": "Energia",
+    "type": "expense",
+    "parent_id": "Moradia"
+  },
+  {
+    "name": "Água",
+    "type": "expense",
+    "parent_id": "Moradia"
+  },
+  {
+    "name": "Internet",
+    "type": "expense",
+    "parent_id": "Moradia"
+  },
+  {
+    "name": "Gás",
+    "type": "expense",
+    "parent_id": "Moradia"
+  },
+  {
+    "name": "Manutenção Residencial",
+    "type": "expense",
+    "parent_id": "Moradia"
+  },
+  {
+    "name": "Móveis",
+    "type": "expense",
+    "parent_id": "Moradia"
+  },
+  {
+    "name": "Decoração",
+    "type": "expense",
+    "parent_id": "Moradia"
+  },
+  {
+    "name": "Farmácia",
+    "type": "expense",
+    "parent_id": "Saúde"
+  },
+  {
+    "name": "Consulta Médica",
+    "type": "expense",
+    "parent_id": "Saúde"
+  },
+  {
+    "name": "Exames",
+    "type": "expense",
+    "parent_id": "Saúde"
+  },
+  {
+    "name": "Plano de Saúde",
+    "type": "expense",
+    "parent_id": "Saúde"
+  },
+  {
+    "name": "Odontologia",
+    "type": "expense",
+    "parent_id": "Saúde"
+  },
+  {
+    "name": "Psicólogo",
+    "type": "expense",
+    "parent_id": "Saúde"
+  },
+  {
+    "name": "Academia",
+    "type": "expense",
+    "parent_id": "Saúde"
+  },
+  {
+    "name": "Suplementos",
+    "type": "expense",
+    "parent_id": "Saúde"
+  },
+  {
+    "name": "Escola",
+    "type": "expense",
+    "parent_id": "Educação"
+  },
+  {
+    "name": "Faculdade",
+    "type": "expense",
+    "parent_id": "Educação"
+  },
+  {
+    "name": "Cursos",
+    "type": "expense",
+    "parent_id": "Educação"
+  },
+  {
+    "name": "Livros",
+    "type": "expense",
+    "parent_id": "Educação"
+  },
+  {
+    "name": "Material Escolar",
+    "type": "expense",
+    "parent_id": "Educação"
+  },
+  {
+    "name": "Celular",
+    "type": "expense",
+    "parent_id": "Tecnologia"
+  },
+  {
+    "name": "Notebook",
+    "type": "expense",
+    "parent_id": "Tecnologia"
+  },
+  {
+    "name": "Periféricos",
+    "type": "expense",
+    "parent_id": "Tecnologia"
+  },
+  {
+    "name": "Software",
+    "type": "expense",
+    "parent_id": "Tecnologia"
+  },
+  {
+    "name": "Hospedagem",
+    "type": "expense",
+    "parent_id": "Tecnologia"
+  },
+  {
+    "name": "Domínio",
+    "type": "expense",
+    "parent_id": "Tecnologia"
+  },
+  {
+    "name": "Netflix",
+    "type": "expense",
+    "parent_id": "Streaming"
+  },
+  {
+    "name": "Spotify",
+    "type": "expense",
+    "parent_id": "Streaming"
+  },
+  {
+    "name": "YouTube Premium",
+    "type": "expense",
+    "parent_id": "Streaming"
+  },
+  {
+    "name": "Amazon Prime",
+    "type": "expense",
+    "parent_id": "Streaming"
+  },
+  {
+    "name": "Disney+",
+    "type": "expense",
+    "parent_id": "Streaming"
+  },
+  {
+    "name": "Cinema",
+    "type": "expense",
+    "parent_id": "Lazer"
+  },
+  {
+    "name": "Viagens",
+    "type": "expense",
+    "parent_id": "Lazer"
+  },
+  {
+    "name": "Hotel",
+    "type": "expense",
+    "parent_id": "Lazer"
+  },
+  {
+    "name": "Passeios",
+    "type": "expense",
+    "parent_id": "Lazer"
+  },
+  {
+    "name": "Eventos",
+    "type": "expense",
+    "parent_id": "Lazer"
+  },
+  {
+    "name": "Presentes",
+    "type": "expense",
+    "parent_id": "Lazer"
+  },
+  {
+    "name": "Roupas",
+    "type": "expense",
+    "parent_id": "Compras"
+  },
+  {
+    "name": "Calçados",
+    "type": "expense",
+    "parent_id": "Compras"
+  },
+  {
+    "name": "Acessórios",
+    "type": "expense",
+    "parent_id": "Compras"
+  },
+  {
+    "name": "Cosméticos",
+    "type": "expense",
+    "parent_id": "Compras"
+  },
+  {
+    "name": "Barbearia",
+    "type": "expense",
+    "parent_id": "Beleza"
+  },
+  {
+    "name": "Salão",
+    "type": "expense",
+    "parent_id": "Beleza"
+  },
+  {
+    "name": "Manicure",
+    "type": "expense",
+    "parent_id": "Beleza"
+  },
+  {
+    "name": "Fraldas",
+    "type": "expense",
+    "parent_id": "Isis"
+  },
+  {
+    "name": "Brinquedos",
+    "type": "expense",
+    "parent_id": "Isis"
+  },
+  {
+    "name": "Babá",
+    "type": "expense",
+    "parent_id": "Isis"
+  },
+  {
+    "name": "Ração",
+    "type": "expense",
+    "parent_id": "Pets"
+  },
+  {
+    "name": "Veterinário",
+    "type": "expense",
+    "parent_id": "Pets"
+  },
+  {
+    "name": "Taxas",
+    "type": "expense",
+    "parent_id": "Financeiro"
+  },
+  {
+    "name": "Impostos",
+    "type": "expense",
+    "parent_id": "Financeiro"
+  },
+  {
+    "name": "Tarifas Bancárias",
+    "type": "expense",
+    "parent_id": "Financeiro"
+  },
+  {
+    "name": "Cartão de Crédito",
+    "type": "expense",
+    "parent_id": "Financeiro"
+  },
+  {
+    "name": "Empréstimos",
+    "type": "expense",
+    "parent_id": "Financeiro"
+  },
+  {
+    "name": "Reserva de Emergência",
+    "type": "expense",
+    "parent_id": "Financeiro"
+  },
+  {
+    "name": "Salário",
+    "type": "income",
+    "parent_id": "Receitas"
+  },
+  {
+    "name": "Freelance",
+    "type": "income",
+    "parent_id": "Receitas"
+  },
+  {
+    "name": "13º Salário",
+    "type": "income",
+    "parent_id": "Receitas"
+  },
+  {
+    "name": "Bonificação",
+    "type": "income",
+    "parent_id": "Receitas"
+  },
+  {
+    "name": "Comissão",
+    "type": "income",
+    "parent_id": "Receitas"
+  },
+  {
+    "name": "Cashback",
+    "type": "income",
+    "parent_id": "Receitas"
+  },
+  {
+    "name": "Dividendos",
+    "type": "income",
+    "parent_id": "Receitas"
+  },
+  {
+    "name": "Venda",
+    "type": "income",
+    "parent_id": "Receitas"
+  },
+  {
+    "name": "Reembolso",
+    "type": "income",
+    "parent_id": "Receitas"
+  },
+  {
+    "name": "Presente",
+    "type": "income",
+    "parent_id": "Receitas"
+  },
+  {
+    "name": "Aluguel Recebido",
+    "type": "income",
+    "parent_id": "Receitas"
+  },
+  {
+    "name": "Outras Entradas",
+    "type": "income",
+    "parent_id": "Receitas"
+  }
+]

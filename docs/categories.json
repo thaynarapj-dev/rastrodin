@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Alimentação",
+    "type": "expense"
+  },
+  {
+    "name": "Transporte",
+    "type": "expense"
+  },
+  {
+    "name": "Moradia",
+    "type": "expense"
+  },
+  {
+    "name": "Saúde",
+    "type": "expense"
+  },
+  {
+    "name": "Educação",
+    "type": "expense"
+  },
+  {
+    "name": "Tecnologia",
+    "type": "expense"
+  },
+  {
+    "name": "Streaming",
+    "type": "expense"
+  },
+  {
+    "name": "Lazer",
+    "type": "expense"
+  },
+  {
+    "name": "Compras",
+    "type": "expense"
+  },
+  {
+    "name": "Beleza",
+    "type": "expense"
+  },
+  {
+    "name": "Filhos",
+    "type": "expense"
+  },
+  {
+    "name": "Pets",
+    "type": "expense"
+  },
+  {
+    "name": "Financeiro",
+    "type": "expense"
+  },
+  {
+    "name": "Investimentos",
+    "type": "expense"
+  },
+  {
+    "name": "Outros",
+    "type": "expense"
+  },
+  {
+    "name": "Receitas",
+    "type": "income"
+  }
+]
